@@ -7,7 +7,7 @@ import javax.validation.Valid
 
 @RestController
 @RequestMapping("travel")
-class TravelController(private val saleRepository: SaleRepository) {
+class SaleController(private val saleRepository: SaleRepository) {
 
     @GetMapping("sales")
     fun getAllSales(): List<Sale> {

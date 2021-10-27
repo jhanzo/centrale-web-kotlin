@@ -1,4 +1,4 @@
-package com.jho.centrale
+package com.jho.centrale.model
 
 /*
 import org.centrale.models.Sale

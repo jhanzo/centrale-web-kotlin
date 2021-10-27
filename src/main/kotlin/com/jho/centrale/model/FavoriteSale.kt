@@ -1,4 +1,4 @@
-package com.jho.centrale
+package com.jho.centrale.model
 
 /*
 class FavoriteSaleRepository: Sale {

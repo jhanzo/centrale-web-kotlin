@@ -1,4 +1,5 @@
-package com.jho.centrale
+package com.jho.centrale.model
+
 /*
 class UserRepository {
     var firstName: String
